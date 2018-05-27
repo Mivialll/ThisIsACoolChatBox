@@ -1,7 +1,5 @@
 # ThisIsACoolChatBox
 
-Things to do:
-* Update Bootstrap and jquery source ref
 
 ## Instructions: ##
 
@@ -18,5 +16,6 @@ Things to do:
 
 ## Built with ##
   1. Node.js & Javascript (back-end)
-  2. HTML & CSS (front-end)
+  2. HTML & CSS, Bootstrap (front-end)
+  3. JQuery (responsive design)
   
