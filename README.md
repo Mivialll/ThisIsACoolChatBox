@@ -17,6 +17,6 @@ Things to do:
  
 
 ## Built with ##
-  1. Node.js and Javascript (backend)
-  2. HTML & CSS (front end)
+  1. Node.js & Javascript (back-end)
+  2. HTML & CSS (front-end)
   
