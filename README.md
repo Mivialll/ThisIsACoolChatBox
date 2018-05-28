@@ -10,8 +10,8 @@
       2. for Windows: [How to Install Node.js® and NPM on Windows](http://blog.teamtreehouse.com/install-node-js-npm-windows)
       3. for MacOS: [How to Install Node.js and NPM on a Mac](http://blog.teamtreehouse.com/install-node-js-npm-mac)
   3. Open terminal:
-      node server
-      enter localhost:3000
+      1. node server
+      2. Open a browser and go to: localhost:3000
  
 
 ## Built with ##
